@@ -24,6 +24,3 @@ Codam [42 Network] project: set up a web server in a single docker container
 
 ## Objectives
 - System administration
-<br/><br/>
-
-![Winter](https://github.com/subsp4ce/pics/blob/master/pexels-michiel-alleman-1559117.jpg "Winter")
